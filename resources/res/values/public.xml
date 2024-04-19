@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="yw_1222_0335" id="0x7f010000" />
+    <public type="layout" name="activity_tts_setting" id="0x7f020000" />
+    <public type="raw" name="keep" id="0x7f030000" />
+    <public type="string" name="app_name" id="0x7f040000" />
+    <public type="string" name="tts_sample_en" id="0x7f040001" />
+    <public type="string" name="tts_sample_zh" id="0x7f040002" />
+    <public type="xml" name="network_security_config" id="0x7f050000" />
+    <public type="xml" name="tts_engine" id="0x7f050001" />
+</resources>
